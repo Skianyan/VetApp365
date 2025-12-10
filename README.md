@@ -43,6 +43,8 @@ especie, edad, peso, sexo, propietario, historial médico, y vacunas.
 
 ![Menu](/assets/screenshots/menu_principal.png "Main")
 
+![Alta](/assets/screenshots/alta.png "Alta")
+
 ![Consulta](/assets/screenshots/consulta.png "Consulta")
 
 ![Consulta Vacía](/assets/screenshots/consulta1.png "Consulta Vacía")
