@@ -37,3 +37,14 @@ especie, edad, peso, sexo, propietario, historial médico, y vacunas.
 éxito.
 9. Debe haber una opción para la salida de la aplicación.
 
+# Screenshots
+
+![Pantalla Principal](/assets/screenshots/main.png "Inicio")
+
+![Menu](/assets/screenshots/menu_principal.png "Main")
+
+![Consulta](/assets/screenshots/consulta.png "Consulta")
+
+![Consulta Vacía](/assets/screenshots/consulta1.png "Consulta Vacía")
+
+![Consulta Con Datos](/assets/screenshots/consulta2.png "Consulta Con Datos")
