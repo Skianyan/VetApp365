@@ -1,50 +1,39 @@
-# Welcome to your Expo app 👋
+# Aplicación VetApp365 - Aplicaciones Moviles Hibridas
+# Actividad 12 | Proyecto 3 
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# Justificación.
+Practicar lo aprendido en el tema de estado de la aplicación, por medio de la
+creación de una aplicación móvil donde se haga uso de clases para almacenar
+atributos de una veterinaria.
 
-## Get started
+# Objetivo.
+Practicar el uso de clases en una aplicación móvil, y ver en ejecución el cambio de
+estado de una aplicación.
+Entrega de la actividad.
+El desarrollo del proyecto debe entregarse en un documento en formato PDF y debe
+contener nombre completo, matricula, fecha y grupo del estudiante, al inicio.
+También deben de entregarse los archivos de la aplicación comprimidos, y una
+captura de video, o múltiples capturas de pantalla, de la aplicación funcionando.
+El nombre de cada documento debe de ser el apellido del estudiante, nombre,
+proyecto, y fecha de entrega, por ejemplo: Apellido_Nombre_VetApp365_DDMMAA.pdf
 
-1. Install dependencies
+# Lineamientos.
+Deberá realizarse una aplicación móvil para una veterinaria, de ahí que el nombre
+de la aplicación también será VetApp365. Esta aplicación debe de contar con las
+siguientes características:
+1. Pantalla de inicio/bienvenida, con el nombre del hospital o clínica (ejemplo:
+Veterinaria tres puerquitos).
+2. Pantalla secundaria que nos llevé a un menú (menú 1)
+3. Un menú (menú 1) con las opciones de consulta de la mascota, y alta de la
+mascota.
+4. Dentro de la consulta debemos de poder ver la opción para consultar el
+historial de las consultas, así como tener la opción de agregar una consulta,
+y agregar vacunas.
+5. Dentro de la opción de crear mascota debemos de poder añadir el nombre,
+especie, edad, peso, sexo, propietario, historial médico, y vacunas.
+6. Los datos de la mascota deben de guardarse en un solo objeto.
+7. El objeto debe ser reutilizable.
+8. Al capturar los datos debe de darnos un mensaje de que se guardaron con
+éxito.
+9. Debe haber una opción para la salida de la aplicación.
 
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
